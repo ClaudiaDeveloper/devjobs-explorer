@@ -19,7 +19,7 @@ Aplicación frontend construida con React + Vite + TailwindCSS.
 
 ## 🌐 Demo
 
-[Ver aplicación en vivo]([(https://devjobs-explorer.vercel.app)])
+[Ver aplicación en vivo](https://devjobs-explorer.vercel.app)
 
 ---
 
